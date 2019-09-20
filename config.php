@@ -5,7 +5,7 @@
   *
   */
 
-$host       = "localhost";
+$host       = "ocalhost";
 $username   = "root";
 $password   = "";
 $dbname     = "test"; // will use later
