@@ -63,9 +63,3 @@ implode(", ", array_keys($new_user)),
 <a href="index.php">Back to home</a>
 
 <?php require "templates/footer.php"; ?>
-
-
-
-
-
-
